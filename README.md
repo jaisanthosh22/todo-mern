@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+## 🖼️ Project Output
+
+Here is a screenshot of the final ToDo app:
+
+![ToDo App Screenshot](TodoMERN.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
